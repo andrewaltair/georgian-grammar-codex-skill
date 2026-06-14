@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Georgian flag icon</title>
+  <desc id="desc">Square icon with the flag of Georgia</desc>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="#ffffff"/>
+  <path d="M224 72h64v368h-64z" fill="#d22630"/>
+  <path d="M72 224h368v64H72z" fill="#d22630"/>
+  <g fill="#d22630">
+    <path d="M118 98h20v24h24v20h-24v24h-20v-24H94v-20h24z"/>
+    <path d="M374 98h20v24h24v20h-24v24h-20v-24h-24v-20h24z"/>
+    <path d="M118 346h20v24h24v20h-24v24h-20v-24H94v-20h24z"/>
+    <path d="M374 346h20v24h24v20h-24v24h-20v-24h-24v-20h24z"/>
+  </g>
+</svg>

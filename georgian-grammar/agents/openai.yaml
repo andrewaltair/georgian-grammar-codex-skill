@@ -1,0 +1,7 @@
+interface:
+  display_name: "Georgian Grammar"
+  short_description: "Georgian grammar guardrails and writing QA"
+  default_prompt: "Use $georgian-grammar to draft or review this text in correct standard Georgian."
+  icon_small: "./assets/georgia-flag.svg"
+  icon_large: "./assets/georgia-flag.png"
+  brand_color: "#D22630"
