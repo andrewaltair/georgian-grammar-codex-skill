@@ -14,6 +14,8 @@
 
 An open-source Codex skill designed to help agents write cleaner, more natural, and more grammatically correct Georgian. The skill follows a rule-first workflow, keeps the hot path lean, and routes deeper morphology, syntax, punctuation, and lexical-boundary questions into focused reference files.
 
+This project is open to ongoing improvement. If you spot a mistake, refine a rule, or want to add clearer examples, open an issue or submit a pull request.
+
 Repository name: `georgian-grammar-codex-skill`
 
 ## ქართულად
